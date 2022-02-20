@@ -1,0 +1,33 @@
+h1{
+    font-size: 40px;
+}
+.half-width{
+    display: flex;
+}
+.experience-iteam{
+    width: 40%;
+    box-shadow: 10px 10px 40px greenyellow;
+    margin-left: 5%;
+    margin-left:5%;
+    padding:20px;
+}
+#wb{
+ border-image: linear-gradient(red,cyan);
+ border-image-slice: 1;
+border-left: 7px solid;
+}
+#bb{
+    border-image: linear-gradient(yellow,indigo);
+    border-left: 7px solid;
+    border-image-slice: 1;
+}
+.partial-color{
+    color: blue;
+}
+.experience-area{
+    background-image: url(img/exp-bg.png
+    );
+    background-repeat: no-repeat;
+    background-position:left;
+    
+}
